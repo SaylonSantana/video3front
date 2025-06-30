@@ -1,4 +1,4 @@
-cat > README.md << EOF
+
 # 🍴 Cardápio Digital - Frontend
 
 Frontend do projeto **Cardápio Digital**, desenvolvido com **React**, **Bootstrap** e **Axios**, para visualizar, adicionar e remover pratos de um cardápio online integrado a uma API REST em Java Spring Boot.
@@ -25,11 +25,11 @@ Frontend do projeto **Cardápio Digital**, desenvolvido com **React**, **Bootstr
 
 1. Clone o repositório frontend:  
    \`\`\`bash
-   git clone https://github.com/SeuUsuario/seu-repositorio-frontend.git
+   git clone https://github.com/
    \`\`\`
 2. Acesse a pasta do projeto:  
    \`\`\`bash
-   cd nome-da-pasta
+   cd 
    \`\`\`
 3. Instale as dependências:  
    \`\`\`bash
