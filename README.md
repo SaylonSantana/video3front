@@ -45,7 +45,7 @@ Frontend do projeto **Cardápio Digital**, desenvolvido com **React**, **Bootstr
 
 ## 📂 Estrutura do Projeto
 
-\`\`\`
+```
 FRONT-CARDAPIO/
 ├── node_modules/           # Dependências do projeto
 ├── public/                 # Arquivos estáticos (HTML, favicon, etc)
@@ -58,7 +58,7 @@ FRONT-CARDAPIO/
 ├── package-lock.json       # Controle de versões das dependências
 ├── package.json            # Scripts e dependências
 └── README.md               # Documentação do projeto
-\`\`\`
+```
 
 ---
 
@@ -72,10 +72,11 @@ FRONT-CARDAPIO/
 
 ## 🍽️ Exemplo de prato cadastrado
 
-| Nome         | Imagem                                                         | Preço     |
-|--------------|----------------------------------------------------------------|-----------|
-| Strogonoff   | ![Strogonoff](https://upload.wikimedia.org/wikipedia/commons/1/13/Stroganoff_de_carne.JPG) | R$ 32,90  |
-| Salada Caesar| ![Salada Caesar](https://upload.wikimedia.org/wikipedia/commons/6/6f/Caesar_salad_%281%29.jpg)  | R$ 18,50  |
+| Nome          | Imagem                                                       | Preço    |
+|---------------|--------------------------------------------------------------|----------|
+| Strogonoff    | ![Strogonoff](https://upload.wikimedia.org/wikipedia/commons/1/13/Stroganoff_de_carne.JPG) | R$ 32,90 |
+| Salada Caesar | ![Salada Caesar](https://upload.wikimedia.org/wikipedia/commons/6/6f/Caesar_salad_%281%29.jpg) | R$ 18,50 |
+
 
 
 ## 📖 Referências
