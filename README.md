@@ -84,4 +84,3 @@ FRONT-CARDAPIO/
 - Curso: Fernanda Kipper | Dev  
 - Tutorial base: Criando um cardápio digital com Java Spring Boot e React  
 
-EOF
