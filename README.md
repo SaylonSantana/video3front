@@ -24,17 +24,17 @@ Frontend do projeto **Cardápio Digital**, desenvolvido com **React**, **Bootstr
 ### Passos
 
 1. Clone o repositório frontend:  
-   \`\`\`bash
-   git clone [https://github.com/](https://github.com/SaylonSantana/video3front.git)
-   \`\`\`
+
+   git clone (https://github.com/](https://github.com/SaylonSantana/video3front.git)
+
 2. Acesse a pasta do projeto:  
-   \`\`\`bash
+
    cd front-cardapio-main
-   \`\`\`
+
 3. Instale as dependências:  
-   \`\`\`bash
+ 
    npm install
-   \`\`\`
+
 4. Inicie o projeto:  
    \`\`\`bash
    npm start
